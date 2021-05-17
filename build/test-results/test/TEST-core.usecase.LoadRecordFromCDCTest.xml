@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="core.usecase.LoadRecordFromCDCTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-17T12:41:20" hostname="sonikro-nt" time="0.444">
+  <properties/>
+  <testcase name="it invokes the RecordLoaderFactory and passes the record to the loader()" classname="core.usecase.LoadRecordFromCDCTest" time="0.444"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
